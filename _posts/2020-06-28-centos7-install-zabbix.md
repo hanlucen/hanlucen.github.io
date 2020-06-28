@@ -110,7 +110,7 @@ yum clean all
 ##### yum安装
 
 ```
-yum isntall zabbix-agent -y
+yum install zabbix-agent -y
 ```
 
 
