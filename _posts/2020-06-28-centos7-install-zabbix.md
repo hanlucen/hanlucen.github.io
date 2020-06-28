@@ -98,7 +98,7 @@ docker-compose up -d
 启动成功后，用户名 Admin 密码 zabbix
 
 
-#### 一、zabbix-agent
+#### 二、zabbix-agent
 
 ##### 安装数据库
 
